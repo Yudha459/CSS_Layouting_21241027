@@ -1,0 +1,40 @@
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+}
+.dua{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: coral;
+}
+.display{
+    display: inline-block;
+}
+.empat{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-right: 50px;
+}
+.lima{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    
+}
+.enam{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+

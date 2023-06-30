@@ -1,0 +1,18 @@
+/* a{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+} */
+
+.navigasi{
+    background-color: aqua;
+}
+
+.main{
+    background-color: lightblue
+}
+
+.main span{
+    background-color: greenyellow;
+}
